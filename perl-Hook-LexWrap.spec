@@ -7,13 +7,13 @@
 Summary:	Hook::LexWrap - lexically scoped subroutine wrappers
 Summary(pl.UTF-8):	Hook::LexWrap - obudowanie procedur z zakresem leksykalnym
 Name:		perl-Hook-LexWrap
-Version:	0.24
-Release:	2
+Version:	0.26
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Hook/CHORNY/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	3c08c1f388c529c532f71422d33913d1
+# Source0-md5:	5d022159b0c56d48d04ef9334309b488
 URL:		http://search.cpan.org/dist/Hook-LexWrap/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
